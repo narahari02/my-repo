@@ -1,0 +1,49 @@
+/* ======== GLOBAL STYLES ======== */
+
+@import url(https://fonts.googleapis.com/css?family=Lora|Cinzel+Decorative|Acme);
+
+/*font-family: 'Cinzel Decorative', cursive;*/
+/*font-family: 'Lora', serif;*/
+/*font-family: 'Acme', sans-serif;*/
+
+html, body {
+    width:100; 
+    height:100;
+    margin:0px;
+    padding:0px;
+}
+
+body {
+    background-color:#990000;
+    font-family: 'Source Sans Pro', Trebuchet MS, sans-serif;
+    font-size:16px;
+}
+
+h1, h2, h3 {
+    margin:0px;
+    padding:0px;
+    color:#000099; 
+}
+    
+p {
+   margin: 15px 0px; 
+}
+
+b, strong {
+    color:#990000;
+}
+
+a {
+    color:#990000;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#009999;    
+}
+
+.mainWidth {
+    width:1200px;
+}
+/* ======== HEADER STYLES ======== */
+
